@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/jcvnstdn/azure/main/installiisserver.ps1"],
+  "commandToExecute": "powershell.exe ./installiisserver.ps1"
+}
